@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Food Delivery App</title>
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="food-delivery-app">
+      <section class="app-content">
+        <img
+          src="https://c.animaapp.com/ZfvjjNxa/img/a4---2.svg"
+          alt="Food Delivery App Interface"
+          class="app-interface"
+        />
+      </section>
+    </main>
+  </body>
+</html>
